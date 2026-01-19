@@ -1,4 +1,4 @@
-# Kapil-sharma
+# Cout down time website
 #This website shows a time counter on the screen.
 #The time increases every second automatically.
 #HTML is used to create the page,
